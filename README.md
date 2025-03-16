@@ -6,7 +6,6 @@ Table of Contents
 
 1.Introduction
 2.Features
-
 3.Installation
 4.How to Play
 5.Technologies Used
